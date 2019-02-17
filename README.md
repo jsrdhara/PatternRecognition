@@ -1,6 +1,6 @@
 # PR_Class
 
-This reposatory is for Pattern recogition
+This repository is for Pattern recogition
 
 
 <br> **data:** File contains all data files
